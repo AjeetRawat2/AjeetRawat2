@@ -16,38 +16,49 @@
 
 # 🚀 About Me
 
-## 💻 whoami
+## 🚀 About Me
 
-```console
-$ whoami
-Ajeet Rawat
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-$ skills --list
+```yaml
+name: Ajeet Rawat
+role: AI & Machine Learning Enthusiast
+education: B.Tech Computer Science Engineering
+location: Gurugram, India 🇮🇳
 
-✔ Python
-✔ Django
-✔ JavaScript
-✔ React
-✔ Node.js
-✔ MongoDB
-✔ Machine Learning
-✔ Data Analysis
-✔ Git & GitHub
+currently_learning:
+  - Machine Learning
+  - Deep Learning
+  - LLM Applications
+  - System Design
 
-$ currently-working-on
+working_on:
+  - Fake News Inspector 📰
+  - Django Web Applications 🌐
+  - AI Powered Projects 🤖
 
-> Fake News Inspector (LLM)
-> AI Projects
-> Full Stack Development
+interests:
+  - Full Stack Development
+  - Data Science
+  - Hackathons
+  - Nature Photography 📸
 
-$ hobbies
+life_philosophy:
+  "Build things that solve real-world problems."
+```
 
-📸 Nature Photography
-🏀 Basketball
+<br clear="right"/>
 
-$ echo "Dream"
+## 💫 A Little More About Me
 
-Build AI products that make an impact.
+```text
+🧠 AI Explorer
+⚡ Full Stack Developer
+🏆 Hackathon Builder
+📊 Machine Learning Enthusiast
+📷 Nature Photographer
+🏀 Basketball Player
+☕ Turning coffee into code since college.
 ```
 # ⚡ Current Focus
 
