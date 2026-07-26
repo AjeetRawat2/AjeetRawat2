@@ -185,6 +185,6 @@ REST APIs
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=170&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=170&section=footer" width="100%"/>
 
 </p>
