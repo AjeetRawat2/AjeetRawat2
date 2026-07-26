@@ -16,30 +16,39 @@
 
 # 🚀 About Me
 
-```python
-class AjeetRawat:
+## 💻 whoami
 
-    def __init__(self):
-        self.location = "Gurugram, India 🇮🇳"
-        self.education = "B.Tech Computer Science"
-        self.languages = ["Python", "JavaScript", "C", "SQL"]
-        self.backend = ["Django", "Node.js", "Express"]
-        self.frontend = ["HTML", "CSS", "JavaScript", "React"]
-        self.database = ["MongoDB", "SQLite", "MySQL"]
-        self.ml = ["Machine Learning", "LLMs", "Data Analysis"]
-        self.tools = ["Git", "GitHub", "VS Code", "Render"]
-        self.hobby = "Nature Photography 📸"
-        self.goal = "Build AI products that solve real-world problems."
+```console
+$ whoami
+Ajeet Rawat
 
-    def __str__(self):
-        return "Code. Learn. Create. Repeat."
+$ skills --list
 
-me = AjeetRawat()
-print(me)
+✔ Python
+✔ Django
+✔ JavaScript
+✔ React
+✔ Node.js
+✔ MongoDB
+✔ Machine Learning
+✔ Data Analysis
+✔ Git & GitHub
+
+$ currently-working-on
+
+> Fake News Inspector (LLM)
+> AI Projects
+> Full Stack Development
+
+$ hobbies
+
+📸 Nature Photography
+🏀 Basketball
+
+$ echo "Dream"
+
+Build AI products that make an impact.
 ```
-
----
-
 # ⚡ Current Focus
 
 🌱 Building AI-powered applications
