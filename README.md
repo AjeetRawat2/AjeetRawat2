@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ajeet%20Rawat&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F172A,25:1E3A8A,50:7C3AED,75:06B6D4,100:111827"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&width=100%&section=header&text=Ajeet%20Rawat&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F172A,25:1E3A8A,50:7C3AED,75:06B6D4,100:111827"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&center=true&vCenter=true&width=1000&lines=Code+%E2%9A%A1+Create+%E2%9C%A8+Capture+%F0%9F%93%B8;BTech+CSE+Student+%7C+Developer+%7C+Photographer;Building+ideas+that+look+good+and+work+better;Nature+through+my+lens+and+logic+through+my+code"/>
 
@@ -16,22 +16,19 @@
 
 ---
 
-## 🪐 Terminal entry
+<div align="center">
 
-```bash
-$ whoami
-Ajeet Rawat
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,100:06B6D4"/>
 
-$ echo $ROLE
-BTech CSE Student
+<h2>🪐 Terminal entry</h2>
 
-$ echo $VIBES
-Developer  •  Builder  •  Nature Photographer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=E5E7EB&vCenter=true&multiline=true&width=900&height=170&lines=%24+whoami;Ajeet+Rawat;%24+echo+%24ROLE;BTech+CSE+Student;%24+echo+%24VIBES;Developer+%E2%80%A2+Builder+%E2%80%A2+Nature+Photographer;%24+echo+%24MISSION;Turning+raw+ideas+into+polished+digital+experiences." />
 
-$ echo $MISSION
-Turning raw ideas into polished digital experiences.
-```
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FFFFFF,100:FFFFFF" width="100%"/>
+</div>
 ---
 
 ## 🌗 About Me
