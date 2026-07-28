@@ -1,189 +1,235 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00F7FF;">Ajeet Rawat</span>
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ajeet%20Rawat&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F172A,25:1E3A8A,50:7C3AED,75:06B6D4,100:111827"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&center=true&vCenter=true&width=1000&lines=Code+%E2%9A%A1+Create+%E2%9C%A8+Capture+%F0%9F%93%B8;BTech+CSE+Student+%7C+Developer+%7C+Photographer;Building+ideas+that+look+good+and+work+better;Nature+through+my+lens+and+logic+through+my+code"/>
+
+<img src="https://komarev.com/ghpvc/?username=AjeetRawat2&label=Profile+views&color=7c3aed&style=for-the-badge" />
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Django+%7C+Python+%7C+JavaScript;Hackathon+Builder;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjeetRawat2&label=Profile+Views&color=00c9ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/AjeetRawat2?style=for-the-badge&color=00c9ff"/>
-  <img src="https://img.shields.io/github/stars/AjeetRawat2?style=for-the-badge&color=00c9ff"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AjeetRawat2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🪐 Terminal entry
 
+```bash
+$ whoami
+Ajeet Rawat
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+$ echo $ROLE
+BTech CSE Student
 
-```yaml
-name: Ajeet Rawat
-role: AI & Machine Learning Enthusiast
-education: B.Tech Computer Science Engineering
-location: Gurugram, India 🇮🇳
+$ echo $VIBES
+Developer  •  Builder  •  Nature Photographer
 
-currently_learning:
-  - Machine Learning
-  - Deep Learning
-  - LLM Applications
-  - System Design
-
-working_on:
-  - Fake News Inspector 📰
-  - Django Web Applications 🌐
-  - AI Powered Projects 🤖
-
-interests:
-  - Full Stack Development
-  - Data Science
-  - Hackathons
-  - Nature Photography 📸
-
-life_philosophy:
-  "Build things that solve real-world problems."
+$ echo $MISSION
+Turning raw ideas into polished digital experiences.
 ```
 
-<br clear="right"/>
+---
 
-## 💫 A Little More About Me
+## 🌗 About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Developer side
+
+* BTech CSE student
+* Loves building full-stack projects
+* Curious about AI, web apps, and product design
+* Enjoys hackathons, experiments, and learning by doing
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 Photographer side
+
+* Loves clicking nature
+* Finds calm in light, clouds, trees, and small details
+* Sees the world like a frame waiting to be captured
+* Runs photos and pixels through the same lens: composition
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⚡ Current vibe
+
+<div align="center">
 
 ```text
-🧠 AI Explorer
-⚡ Full Stack Developer
-🏆 Hackathon Builder
-📊 Machine Learning Enthusiast
-📷 Nature Photographer
-🏀 Basketball Player
-☕ Turning coffee into code since college.
+Code base  →  Idea spark  →  Prototype  →  Polish  →  Publish
 ```
-# ⚡ Current Focus
 
-🌱 Building AI-powered applications
+</div>
 
-🤖 Working with Machine Learning & LLMs
-
-🌐 Full Stack Web Development
-
-📊 Data Analysis & Visualization
-
-🏆 Participating in Hackathons
-
-📸 Mobile Nature Photography
+I like clean interfaces, bold visuals, and projects that feel alive.
+Not just “working software”, but software with a pulse.
 
 ---
 
-# 🛠 Tech Stack
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,react"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
-</p>
-
----
-
-# 💻 Featured Projects
-
-## 📰 Fake News Inspector
-
-> AI-powered fact-checking system using LLMs.
-
-✨ Extracts claims
-
-✨ Searches trusted sources
-
-✨ Calculates credibility score
-
-✨ Generates AI explanations
-
-✨ Returns final verdict (True / False / Misleading)
-
----
-
-## 🏠 House Price Prediction
-
-Machine Learning model using Regression.
-
-✔ Data Cleaning
-
-✔ Feature Engineering
-
-✔ Model Training
-
-✔ 73%+ Performance
-
----
-
-## 🌐 Django Projects
-
-Authentication
-
-CRUD Operations
-
-Responsive Dashboard
-
-Deployment on Render
-
-REST APIs
-
----
-
-
-# 🎯 Fun Facts
-
-💡 I enjoy solving real-world problems using AI.
-
-🏀 Basketball keeps me active.
-
-📸 Nature photography helps me slow down and notice details.
-
-🚀 I love turning ideas into working products.
-
----
-
-# 🌍 Connect with Me
+## 🧠 Tech constellation
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,django,mongodb,mysql,git,github,vscode,linux" />
+</p>
 
-<a href="https://github.com/AjeetRawat2">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ajeet-rawat-9418b8384">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:rawatajeet287@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,firebase,postman,linux,vercel" />
 </p>
 
 ---
 
+## 🌌 What I build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Projects
+
+* Full-stack web apps
+* AI and automation ideas
+* Hackathon prototypes
+* UI experiments
+* Problem-solving tools
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 What I enjoy
+
+* Turning rough ideas into polished apps
+* Designing interfaces that feel premium
+* Learning new tech without the drama
+* Making small details look expensive
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔥 Featured project
+
+### Fake News Inspector
+
+An LLM-powered credibility checker that:
+
+* extracts claims from articles
+* searches supporting evidence
+* scores credibility
+* explains the verdict clearly
+
+**Stack idea:** JavaScript, Node.js, Express, React, MongoDB, APIs, LLMs
+
+---
+
+## 📸 Nature through my lens
+
+<div align="center">
+
+> “Some people collect tabs.
+> I collect skies, shadows, trees, and frames.”
+
+</div>
+
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=170&section=footer" width="100%"/>
-
+  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80" width="32%" />
+  <img src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80" width="32%" />
+  <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80" width="32%" />
 </p>
+
+<p align="center">
+  <a href="https://www.instagram.com/wander_in_pics/">
+    <img src="https://img.shields.io/badge/Instagram-wander__in__pics-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub pulse
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjeetRawat2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetRawat2&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetRawat2&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution trail
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AjeetRawat2/AjeetRawat2/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌠 The “not just code” section
+
+<div align="center">
+
+| What I do      | Why it matters                                 |
+| -------------- | ---------------------------------------------- |
+| Build projects | Because ideas should leave the notebook        |
+| Learn tech     | Because curiosity is a good engine             |
+| Click nature   | Because silence can be framed                  |
+| Explore design | Because good UI feels like music without sound |
+
+</div>
+
+---
+
+## 📬 Connect with me
+
+<p align="center">
+  <a href="https://github.com/AjeetRawat2">
+    <img src="https://img.shields.io/badge/GitHub-AjeetRawat2-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/wander_in_pics/">
+    <img src="https://img.shields.io/badge/Instagram-wander__in__pics-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:rawatajeet287@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rawatajeet287%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌙 Final line
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### Code with intent.
+
+### Capture with feeling.
+
+### Build like a sunrise: quiet, then unforgettable.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:111827,25:1E3A8A,50:7C3AED,75:06B6D4,100:0F172A" />
+
+</div>
