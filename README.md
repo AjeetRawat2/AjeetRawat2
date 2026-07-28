@@ -4,21 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&center=true&vCenter=true&width=1000&lines=Code+%E2%9A%A1+Create+%E2%9C%A8+Capture+%F0%9F%93%B8;BTech+CSE+Student+%7C+Developer+%7C+Photographer;Building+ideas+that+look+good+and+work+better;Nature+through+my+lens+and+logic+through+my+code"/>
 
-<img src="https://komarev.com/ghpvc/?username=AjeetRawat2&label=Profile+views&color=7c3aed&style=for-the-badge" />
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AjeetRawat2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,100:06B6D4"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,100:06B6D4" width="100%"/>
 
 <h2>🪐 Terminal entry</h2>
 
