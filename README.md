@@ -85,7 +85,7 @@ Not just “working software”, but software with a pulse.
 ## 🧠 Tech constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,django,mongodb,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,django,mongodb,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
