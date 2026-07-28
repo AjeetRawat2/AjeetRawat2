@@ -163,26 +163,6 @@ An LLM-powered credibility checker that:
 
 ---
 
-## 📊 GitHub pulse
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjeetRawat2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetRawat2&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetRawat2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution trail
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AjeetRawat2/AjeetRawat2/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🌠 The “not just code” section
 
@@ -227,6 +207,6 @@ An LLM-powered credibility checker that:
 
 ### Build like a sunrise: quiet, then unforgettable.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:111827,25:1E3A8A,50:7C3AED,75:06B6D4,100:0F172A" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:111827,25:1E3A8A,50:7C3AED,75:06B6D4,100:0F172A,width= 100%" />
 
 </div>
