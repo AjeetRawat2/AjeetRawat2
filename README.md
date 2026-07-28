@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&width=100%&section=header&text=Ajeet%20Rawat&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F172A,25:1E3A8A,50:7C3AED,75:06B6D4,100:111827"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ajeet%20Rawat&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F172A,25:1E3A8A,50:7C3AED,75:06B6D4,100:111827" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&center=true&vCenter=true&width=1000&lines=Code+%E2%9A%A1+Create+%E2%9C%A8+Capture+%F0%9F%93%B8;BTech+CSE+Student+%7C+Developer+%7C+Photographer;Building+ideas+that+look+good+and+work+better;Nature+through+my+lens+and+logic+through+my+code"/>
 
@@ -207,6 +207,6 @@ An LLM-powered credibility checker that:
 
 ### Build like a sunrise: quiet, then unforgettable.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:111827,25:1E3A8A,50:7C3AED,75:06B6D4,100:0F172A,width= 100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:111827,25:1E3A8A,50:7C3AED,75:06B6D4,100:0F172A" width="100%" />
 
 </div>
