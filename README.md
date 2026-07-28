@@ -89,7 +89,7 @@ Not just “working software”, but software with a pulse.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,firebase,postman,linux,vercel" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,firebase,postman,vercel" />
 </p>
 
 ---
