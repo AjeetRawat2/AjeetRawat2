@@ -7,7 +7,6 @@
 
 ---
 
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,100:06B6D4" width="100%"/>
 
