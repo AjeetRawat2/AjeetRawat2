@@ -186,9 +186,11 @@ An LLM-powered credibility checker that:
 </div>
 
 <p align="center">
-  <img src="https://www.instagram.com/p/DTQSVjRk7bW/?auto=format&fit=crop&w=1200&q=80" width="32%" />
+   <a href="https://www.instagram.com/wander_in_pics/">
+  <img src="./Assests/The sun left, but the feeling stayed.....#goldenhour #sunsetphotography #skylover #skygram #suns.jpg?auto=format&fit=crop&w=1200&q=80" width="32%" />
   <img src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80" width="32%" />
   <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80" width="32%" />
+   </a>
 </p>
 
 <p align="center">
