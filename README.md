@@ -188,7 +188,7 @@ An LLM-powered credibility checker that:
 <p align="center">
    <a href="https://www.instagram.com/wander_in_pics/">
   <img src="./Assests/img1.jpg" width="32%" />
-  <img src="https://raw.githubusercontent.com/AjeetRawat2/AjeetRawat2/edit/main/Assests/lv_0_20260725111809-ezgif.com-video-to-gif-converter.gif" width="32%" />
+  <img src="./Assests/video.gif" width="32%" />
   <img src="./Assests/img2.jpg" width="32%" />
    </a>
 </p>
