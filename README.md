@@ -11,18 +11,67 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,100:06B6D4" width="100%"/>
 
-<h2>🪐 Terminal entry</h2>
+# 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=E5E7EB&vCenter=true&multiline=true&width=900&height=170&lines=%24+whoami;Ajeet+Rawat;%24+echo+%24ROLE;BTech+CSE+Student;%24+echo+%24VIBES;Developer+%E2%80%A2+Builder+%E2%80%A2+Nature+Photographer;%24+echo+%24MISSION;Turning+raw+ideas+into+polished+digital+experiences." />
 
-</div>
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FFFFFF,100:FFFFFF" width="100%"/>
-</div>
+```yaml
+name: Ajeet Rawat
+role: AI & Machine Learning Enthusiast
+education: B.Tech Computer Science Engineering
+location: Gurugram, India 🇮🇳
+
+currently_learning:
+  - Machine Learning
+  - Deep Learning
+  - LLM Applications
+  - System Design
+
+working_on:
+  - Fake News Inspector 📰
+  - Django Web Applications 🌐
+  - AI Powered Projects 🤖
+
+interests:
+  - Full Stack Development
+  - Data Science
+  - Hackathons
+  - Nature Photography 📸
+
+life_philosophy:
+  "Build things that solve real-world problems."
+```
+
+<br clear="right"/>
+
+## 💫 A Little More About Me
+
+```text
+🧠 AI Explorer
+⚡ Full Stack Developer
+🏆 Hackathon Builder
+📊 Machine Learning Enthusiast
+📷 Nature Photographer
+🏀 Basketball Player
+☕ Turning coffee into code since college.
+```
+# ⚡ Current Focus
+
+🌱 Building AI-powered applications
+
+🤖 Working with Machine Learning & LLMs
+
+🌐 Full Stack Web Development
+
+📊 Data Analysis & Visualization
+
+🏆 Participating in Hackathons
+
+📸 Mobile Nature Photography
+
 ---
 
-## 🌗 About Me
 
 <div align="center">
 
