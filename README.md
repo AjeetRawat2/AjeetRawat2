@@ -186,11 +186,9 @@ An LLM-powered credibility checker that:
 </div>
 
 <p align="center">
-   <a href="https://www.instagram.com/wander_in_pics/">
   <img src="./Assests/img1.jpg" width="32%" />
   <img src="./Assests/video.gif" width="32%" />
   <img src="./Assests/img2.jpg" width="32%" />
-   </a>
 </p>
 
 <p align="center">
